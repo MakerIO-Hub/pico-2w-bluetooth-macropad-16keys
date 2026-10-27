@@ -4,7 +4,7 @@ Commercial macro keypads and stream decks are handy, but they are often quite ex
 
 In this article, I will take you through the complete build process: from smartly expanding GPIO pins using the MCP23017, to avoiding some tricky software pitfalls on the new RP2350 chip.
 
-📺 Watch the Full Project Video on YouTube: Coming Soon!
+📺 Watch the Full Project Video on YouTube: https://youtu.be/69uvluCrlgI
 
 A great tool for building electronic circuits and [**PCB layout**](https://design.jlcpcb.com/?from=makerio_layout) workflows.
 
